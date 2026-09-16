@@ -1,0 +1,4 @@
+# Copy to terraform.tfvars and fill in your own values.
+
+aws_region  = "us-east-1"
+bucket_name = "my-unique-practice-bucket-12345"
